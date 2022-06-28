@@ -17,16 +17,16 @@ header { background:#666; color:#fff; }
     .allBtn { display:none;}
     .sign { float:right; line-height:100px; }
 
-#visual { width:1240px; height:500px; margin:auto; background:#aaaaaa; }
+#visual { width:1240px; height:500px; margin:auto; background:#ccc; }
 
 #contents { width:1240px; margin:auto; }
 #contents > div { width:25%; height:300px; float:left; }
-    .con1 { background:#eedcb4; } 
-    .con2 { background:#c1eeb4; } 
-    .con3 { background:#b4cbee; } 
-    .con4 { background:#eeb4e6; } 
+    .con1 { background:#D46A6A; } 
+    .con2 { background:#FFD1AA; } 
+    .con3 { background:#669999; } 
+    .con4 { background:#88CC88; } 
 
-footer { background:#d8d8d8; }
+footer { background:#ccc; }
     .footer_in { width:1240px; margin:auto; padding: 20px; text-align:right; }
 
 
